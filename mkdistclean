@@ -1,6 +1,6 @@
 make distclean
 
-gunzip ./man/template.1.gz
+gunzip ./man/mkcproj.1.gz
 #gunzip ./doc/*.gz
 gunzip ./ChangeLog.gz
 gunzip ./LICENSE.gz

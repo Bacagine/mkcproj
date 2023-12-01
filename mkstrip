@@ -1,7 +1,7 @@
 make strip
 
-strip ./bin/template
-gzip -9 ./man/template.1
+strip ./bin/mkcproj
+gzip -9 ./man/mkcproj.1
 #gzip -9 ./doc/*
 gzip -9 ./ChangeLog
 gzip -9 ./LICENSE
